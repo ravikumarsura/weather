@@ -39,7 +39,7 @@ body {
 .weather-info {
   background: var(--card-bg);
   padding: 20px;
-  border-radius: 15px;
+  border-radius: 20px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
   width: 520px;
   max-width: 100%;
